@@ -1,0 +1,8 @@
+Algoritmo "alg.01"
+// Função: Mostrar a mensagem "Olá, Mundo!"
+// Autor: Mariela Nogueira
+// Data: 28/08/2025
+Var
+Inicio
+    Escreva ("Olá, Mundo!")
+Fimalgoritmo
