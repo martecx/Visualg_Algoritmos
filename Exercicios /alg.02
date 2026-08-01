@@ -1,0 +1,11 @@
+Algoritmos "alg.02"
+//Função: Ler um nome
+//Autor: Mariela Nogueira
+//Data: 28/08/2025
+Var
+  Nome: caractere
+Inicio
+  Escreva ("Qual é o seu nome?")
+  Leia (nome)
+  Escreval ("Olá ", nome,", é um prazer te conhecer!")
+Fimalgoritmo
