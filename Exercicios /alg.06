@@ -10,5 +10,4 @@ Inicio
    Sucessor <- Numero + 1
    Escreval (" O Antecessor de ", Numero, " é ", Antecessor)
    Escreval (" O Sucessor de ", Numero, " é ", Sucessor)
-
 Fimalgoritmo
