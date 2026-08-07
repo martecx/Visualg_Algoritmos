@@ -5,6 +5,7 @@ Algoritmo "alg.07"
 Var
    N, D, T: real
 Inicio
+   Escreva ("Digite um numero: ")
    Leia (N)
    D <- N * 2
    T <- N / 3
