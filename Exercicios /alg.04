@@ -1,7 +1,7 @@
 Algoritmo "alg.04"
-//Função: Ler dois números e mostrar a soma 
-//Autor: Mariela Nogueira
-//Data: 05/09/2025
+// Função: Ler dois números e mostrar a soma 
+// Autor: Mariela Nogueira
+// Data: 05/09/2025
 Var
   N1, N2, S: inteiro
 Inicio
