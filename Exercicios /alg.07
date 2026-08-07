@@ -1,0 +1,13 @@
+Algoritmo "alg.07"
+// Função: Ler um numero, calcular o dobro e a terça parte
+// Autor: Mariela Nogueira
+// Data: 08/09/2025
+Var
+   N, D, T: real
+Inicio
+   Leia (N)
+   D <- N * 2
+   T <- N / 3
+   Escreval ("O dobro é: ",D)
+   Escreval ("A terça parte é: ",T)
+Fimalgoritmo
