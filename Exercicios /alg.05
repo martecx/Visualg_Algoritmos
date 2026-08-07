@@ -1,0 +1,15 @@
+Algoritmo "alg.05"
+//Função: Ler duas notas e mostrar a média 
+//Autor: Mariela Nogueira
+//Data: 05/09/2025
+Var
+  N1, N2: Inteiro  
+  M: Real 
+Inicio
+    Escreva ("Informe a Primeira Nota: ")
+    Leia (N1)
+    Escreva ("Informe a Segunda Nota: ")
+    Leia (N2)
+    M <- (N1+N2)/2
+    Escreva ("A média entre ", N1," e ", N2," é igual a: ", M)
+Fimalgoritmo
