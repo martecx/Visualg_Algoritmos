@@ -1,0 +1,14 @@
+Algoritmo "alg.06"
+// Função: Ler um número, e revelar o seu antecessor e sucessor
+// Autor: Mariela Nogueira
+// Data: 05/09/2025
+Var
+   Numero, antecessor, sucessor: inteiro
+Inicio
+   Leia (Numero) 
+   Antecessor <- Numero - 1
+   Sucessor <- Numero + 1
+   Escreval (" O Antecessor de ", Numero, " é ", Antecessor)
+   Escreval (" O Sucessor de ", Numero, " é ", Sucessor)
+
+Fimalgoritmo
