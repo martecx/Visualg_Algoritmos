@@ -1,7 +1,7 @@
 Algoritmo "alg.05"
-//Função: Ler duas notas e mostrar a média 
-//Autor: Mariela Nogueira
-//Data: 05/09/2025
+// Função: Ler duas notas e mostrar a média 
+// Autor: Mariela Nogueira
+// Data: 05/09/2025
 Var
   N1, N2: Inteiro  
   M: Real 
