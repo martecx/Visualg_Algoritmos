@@ -1,0 +1,22 @@
+Algoritmo "alg.08"
+// Função:
+// Autor: Mariela Nogueira
+// Data: 08/09/2025
+Var
+   km, hm, dam, m, dm, cm, mm: real
+Inicio
+   Escreva ("Digite uma distancia em metro: ")
+   Leia (m)
+   km <- m / 1000
+   hm <- m / 100
+   dam <- m / 10
+   dm <- m * 10
+   cm <- m * 100
+   mm <- m * 1000
+   Escreval ("Km: ", km)
+   Escreval ("Hm: ", hm)
+   Escreval ("Dam: ", dam)
+   Escreval ("Dm: ", dm)
+   Escreval ("Cm: ", cm)
+   Escreval ("Mm: ", mm)
+Fimalgoritmo
